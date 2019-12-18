@@ -1,0 +1,32 @@
+input:
+  ## @param id - string - required
+  - id: google
+  ## @param url - string - required
+    url: http://google.com
+    ## @param method - string - optional - default: get
+    httpMethod: "GET"
+    ## @param timeout - int (in seconds) - optional - default: 10s 
+    ## min=1s, max=20s
+    timeout: 20
+    ## @param httpAcceptedResponseStatusCode - int[] - optional - default: [200] 
+    ## if response http status code does not match one of those, website is down.
+    httpAcceptedResponseStatusCode: 
+      - 200
+      - 201
+      - 202
+    ## @param checkInterval - int (in seconds) - optional - default: 10s 
+    ## min=5s, max=2 minutes
+    checkInterval: 5
+  - id: facebook
+    url: "http://facebook.com"
+    httpMethod: "POST"
+    timeout: 15
+    ## @param data - list of key:value elements - goes with httpMethod POST -optional
+    data: 
+      key1: val1
+      key2: val2
+    httpAcceptedResponseStatusCode: 
+      - 200
+      - 201
+      - 400
+

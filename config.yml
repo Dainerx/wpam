@@ -1,0 +1,21 @@
+input:
+  ## @param id - string - required
+  - id: google
+  ## @param url - string - required
+    url: https://google.com
+    ## @param method - string - optional - default: get
+    httpMethod: "get"
+    ## @param timeout - int (in seconds) - optional - default: 10s 
+    timeout: 5
+    ## @param httpAcceptedResponseStatusCode - int[] - optional - default: [200]
+    httpAcceptedResponseStatusCode: 
+      - 200
+      - 300
+    ## @param checkInterval - int (in seconds) - optional - default: 10s 
+    checkInterval: 5
+  - id: facebook
+    url: http://facebook.com
+    httpMethod: "GET"
+    timeout: 5
+    httpAcceptedResponseStatusCode: 
+      - 200

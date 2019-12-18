@@ -1,0 +1,3 @@
+input:
+  - id: datadog
+    url: https://www.datadoghq.com/

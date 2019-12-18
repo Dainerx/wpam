@@ -1,0 +1,10 @@
+init:
+#init config here
+input:
+  - id: google
+    url: http://google.com
+    http_method: "POST"
+  - id: facebook
+    url: http://facebook.com
+    http_method: "GET"
+  - url: http://facebook.com

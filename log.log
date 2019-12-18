@@ -1,0 +1,19 @@
+{"level":"info","msg":"Configuration successfully unmarshalled.","time":"2019-11-10T19:39:48+01:00"}
+{"level":"info","msg":"Website https://www.datadoghq.com/ is UP, with http_response_status_code=200, took 0.577963082 s to respond","time":"2019-11-10T19:39:49+01:00"}
+{"level":"error","msg":"check request stopped!","time":"2019-11-10T19:39:53+01:00"}
+{"level":"info","msg":"Log file found and successfully parsed.","time":"2019-11-10T19:40:00+01:00"}
+{"level":"info","msg":"Configuration successfully unmarshalled.","time":"2019-11-10T19:40:00+01:00"}
+{"level":"info","msg":"Website https://google.com is UP, with http_response_status_code=200, took 0.436088495 s to respond","time":"2019-11-10T19:40:01+01:00"}
+{"level":"info","msg":"Website http://facebook.com is UP, with http_response_status_code=200, took 0.654099079 s to respond","time":"2019-11-10T19:40:01+01:00"}
+{"level":"info","msg":"Website https://google.com is UP, with http_response_status_code=200, took 0.053171973 s to respond","time":"2019-11-10T19:40:06+01:00"}
+{"level":"info","msg":"Website https://google.com is UP, with http_response_status_code=200, took 0.049350519 s to respond","time":"2019-11-10T19:40:11+01:00"}
+{"level":"info","msg":"Website http://facebook.com is UP, with http_response_status_code=200, took 0.307280289 s to respond","time":"2019-11-10T19:40:11+01:00"}
+{"level":"info","msg":"Website https://google.com is UP, with http_response_status_code=200, took 0.062268235 s to respond","time":"2019-11-10T19:40:16+01:00"}
+{"level":"info","msg":"Website https://google.com is UP, with http_response_status_code=200, took 0.067358256 s to respond","time":"2019-11-10T19:40:21+01:00"}
+{"level":"info","msg":"Website http://facebook.com is UP, with http_response_status_code=200, took 0.326867671 s to respond","time":"2019-11-10T19:40:21+01:00"}
+{"level":"info","msg":"Website https://google.com is UP, with http_response_status_code=200, took 0.051457019 s to respond","time":"2019-11-10T19:40:26+01:00"}
+{"level":"info","msg":"Website https://google.com is UP, with http_response_status_code=200, took 0.055918909 s to respond","time":"2019-11-10T19:40:31+01:00"}
+{"level":"info","msg":"Website http://facebook.com is UP, with http_response_status_code=200, took 0.407344943 s to respond","time":"2019-11-10T19:40:31+01:00"}
+{"level":"info","msg":"Website https://google.com is UP, with http_response_status_code=200, took 0.054018191 s to respond","time":"2019-11-10T19:40:36+01:00"}
+{"level":"error","msg":"check request stopped!","time":"2019-11-10T19:40:39+01:00"}
+{"level":"error","msg":"check request stopped!","time":"2019-11-10T19:40:39+01:00"}

@@ -4,8 +4,7 @@
 
 Wpam is a CLI tool written in Go that helps you monitor the up/down status of HTTP endpoints. It detects endpoints with bad response codes, and display its metrics over different timeframes.
 
-Wpam was first created as coding challenge during the interview process with Datadog. Now it is being used as an internal tool with [Vittascience](https://github.com/vittascience) website performance.
-
+Wpam was first created as coding challenge during the interview process with Datadog. Now it is being used as an internal tool by [Vittascience](https://github.com/vittascience).
 ### Problem constraints
 
 - Websites and check intervals are user defined.
